@@ -433,7 +433,7 @@ const ScaffoldingWritingTable = () => {
       {/* Reference */}
       <div className="max-w-7xl mx-auto mt-6">
         <div className="bg-white rounded-lg shadow-md p-4 border-l-4 border-indigo-600">
-          <h3 className="font-bold text-lg mb-2 text-gray-800">Reference</h3>
+          <h3 className="font-bold text-lg mb-2 text-gray-800">References</h3>
           <p className="text-sm text-gray-700">
             Tompkins, G. E., Campbell, R., Green, D., & Smith, C. (2021). <em>Literacy for the 21st century: A balanced approach</em> (3rd Canadian ed.). Pearson Canada.
           </p>
