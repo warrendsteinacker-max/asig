@@ -130,7 +130,7 @@ const ScaffoldingWritingTable = () => {
       icon: BookMarked,
       color: 'bg-purple-500',
       lightColor: 'bg-purple-50',
-      description: 'In expository writing, students "collect and synthesize information. This writing is objective; reports are the most common type. Students use expository writing to give directions, sequence steps, compare one thing to another, explain causes and effects, or describe problems and solutions" (Tompkins et al., 2021, p. 341). This is essential what informative writing is but expository writing aims to explain or clarify a topic in detail, using facts and evidence, while informative writing simply provides useful knowledge or instructions without deep analysis" (Reddit, 2026, para. 1).',
+      description: '"Students retell familiar stories, develop sequels for stories they\'ve read, write stories about events in their own lives, and create original stories. They include a beginning, middle, and end in the narratives to develop the plot and characters" (Tompkins et al., 2021, p. 341).',
       grades: {
         K: {
           scaffolds: ['Labeled drawings and diagrams', 'Non-fiction "All About" book templates', 'Topic word banks with pictures', 'Shared research projects'],
@@ -434,11 +434,11 @@ const ScaffoldingWritingTable = () => {
       <div className="max-w-7xl mx-auto mt-6">
         <div className="bg-white rounded-lg shadow-md p-4 border-l-4 border-indigo-600">
           <h3 className="font-bold text-lg mb-2 text-gray-800">References</h3>
+          <p className="text-sm text-gray-700 mb-2">
+            Reddit. (2026). <em>Expository or Informative? The Subtle Distinction Experts Never Ignore</em>. https://www.reddit.com/r/study/comments/1hazjyl/expository_or_informative_the_subtle_distinction/
+          </p>
           <p className="text-sm text-gray-700">
             Tompkins, G. E., Campbell, R., Green, D., & Smith, C. (2021). <em>Literacy for the 21st century: A balanced approach</em> (3rd Canadian ed.). Pearson Canada.
-          </p>
-          <p className="text-sm text-gray-700 mt-2">
-            Reddit. (2026). <em>Expository or Informative? The Subtle Distinction Experts Never Ignore</em>. https://www.reddit.com/r/study/comments/1hazjyl/expository_or_informative_the_subtle_distinction/#:~:text=Expository%20and%20informative%20essays%20may,more%20at%20Write%20Essay%20Today.
           </p>
         </div>
       </div>
