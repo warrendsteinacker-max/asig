@@ -184,7 +184,7 @@ const ScaffoldingWritingTable = () => {
     },
     {
       id: 'persuasive',
-      name: 'Advanced Persuasive',
+      name: 'Persuasive',
       icon: GraduationCap,
       color: 'bg-orange-500',
       lightColor: 'bg-orange-50',
