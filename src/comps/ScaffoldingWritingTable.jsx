@@ -437,6 +437,9 @@ const ScaffoldingWritingTable = () => {
           <p className="text-sm text-gray-700">
             Tompkins, G. E., Campbell, R., Green, D., & Smith, C. (2021). <em>Literacy for the 21st century: A balanced approach</em> (3rd Canadian ed.). Pearson Canada.
           </p>
+          <p className="text-sm text-gray-700 mt-2">
+            Reddit. (2026). <em>Expository or Informative? The Subtle Distinction Experts Never Ignore</em>. https://www.reddit.com/r/study/comments/1hazjyl/expository_or_informative_the_subtle_distinction/#:~:text=Expository%20and%20informative%20essays%20may,more%20at%20Write%20Essay%20Today.
+          </p>
         </div>
       </div>
     </div>
